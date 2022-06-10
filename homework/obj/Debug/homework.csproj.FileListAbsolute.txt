@@ -1,0 +1,16 @@
+C:\Users\Truma\Desktop\BCIT\homework\bin\Debug\homework.exe.config
+C:\Users\Truma\Desktop\BCIT\homework\bin\Debug\homework.exe
+C:\Users\Truma\Desktop\BCIT\homework\bin\Debug\homework.pdb
+C:\Users\Truma\Desktop\BCIT\homework\obj\Debug\homework.csproj.AssemblyReference.cache
+C:\Users\Truma\Desktop\BCIT\homework\obj\Debug\homework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Truma\Desktop\BCIT\homework\obj\Debug\MainWindow.g.cs
+C:\Users\Truma\Desktop\BCIT\homework\obj\Debug\App.g.cs
+C:\Users\Truma\Desktop\BCIT\homework\obj\Debug\homework_MarkupCompile.cache
+C:\Users\Truma\Desktop\BCIT\homework\obj\Debug\homework_MarkupCompile.lref
+C:\Users\Truma\Desktop\BCIT\homework\obj\Debug\MainWindow.baml
+C:\Users\Truma\Desktop\BCIT\homework\obj\Debug\homework.g.resources
+C:\Users\Truma\Desktop\BCIT\homework\obj\Debug\homework.Properties.Resources.resources
+C:\Users\Truma\Desktop\BCIT\homework\obj\Debug\homework.csproj.GenerateResource.cache
+C:\Users\Truma\Desktop\BCIT\homework\obj\Debug\homework.csproj.CoreCompileInputs.cache
+C:\Users\Truma\Desktop\BCIT\homework\obj\Debug\homework.exe
+C:\Users\Truma\Desktop\BCIT\homework\obj\Debug\homework.pdb
