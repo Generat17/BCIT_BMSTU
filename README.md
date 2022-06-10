@@ -11,4 +11,4 @@
 - Лаб 6. [Delegates. Reflection](https://github.com/Generat17/BCIT_BMSTU/tree/main/lab6)
 
 ## Домашнее задание:
-1. []()
+1. [Программа, реализующая многопоточный поиск в файле. WPF.](https://github.com/Generat17/BCIT_BMSTU/tree/main/homework)
